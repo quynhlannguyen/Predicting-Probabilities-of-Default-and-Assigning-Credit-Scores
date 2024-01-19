@@ -5,8 +5,8 @@ Research questions
 3.	Model Validation and Reliability: How dependable is the credit risk model I've developed? I rigorously validate the model's performance using cross-validation, ROC curves, and calibration tests to ascertain its effectiveness in real-world lending scenarios.
 Through this project, I aim to deliver a model that not only enhances financial institutions' lending decisions but also serves as a catalyst for risk management, ultimately supporting financial security and ethical lending practices.
 
-**Approach/Methodology
-**
+Approach/Methodology
+
 1. Data Collection: The project utilized a comprehensive dataset from Kaggle, featuring over 32,581 consumer loan transactions with 12 distinct attributes. This dataset was instrumental in analyzing and predicting credit risk behaviors.
 2. Data Exploration: An in-depth exploratory data analysis (EDA) was conducted to understand the dataset's characteristics. Key techniques included calculating summary statistics and using visual tools like histograms, scatter plots, and box plots to examine data distributions, relationships between variables, and potential outliers. This step was crucial in identifying data quality issues, such as missing values or anomalous entries.
 3. Data Preparation: To enhance data quality and model accuracy, I addressed missing values primarily through median imputation for continuous variables. Outliers identified in the EDA were appropriately handled, ensuring their minimal impact on modeling. I also applied normalization and standardization to make the data suitable for analysis.
